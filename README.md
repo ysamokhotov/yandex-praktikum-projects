@@ -1,1 +1,1 @@
-# yandex-praktikum-projects
+# will be completed soon
