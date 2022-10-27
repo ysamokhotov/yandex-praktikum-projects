@@ -1,22 +1,27 @@
-## Table of contents
-* [General info](#general-info)
-* [Technologies](#technologies)
-* [Setup](#setup)
+## Содержание
+* [Основная информация](#general-info)
+* [Инструментарий](#technologies)
+* [Установка](#setup)
 
-## General info
-This project is simple Lorem ipsum dolor generator.
+## Основная информация
+Данный репозиторий содержит оформленные проекты в ходе обучения на курсе по аналитике данных от Яндекс.Практикум.
 	
-## Technologies
-Project is created with:
-* Lorem version: 12.3
-* Ipsum version: 2.33
-* Ament library version: 999
-	
-## Setup
-To run this project, install it locally using npm:
+## Инструментарий
+Использованные библиотеки:
+* pandas v1.5.1
+* numpy v1.23
+* matplotlib v3.6.0
+* statsmodels v0.13.2
+* datetime v3.11.0
+* plotly v5.10.0
+* tqdm v4.64.1 
 
 ```
-$ cd ../lorem
-$ npm install
-$ npm start
+$ pip install pandas
+$ pip install numpy
+$ pip install matplotlib
+$ pip install statsmodels
+$ pip install datetime
+$ pip install plotly
+$ pip install tqdm
 ```
