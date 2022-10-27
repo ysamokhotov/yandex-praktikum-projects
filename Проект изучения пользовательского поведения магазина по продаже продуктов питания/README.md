@@ -51,4 +51,4 @@
 > Сделаем общие выводы
 
 ## **Используемые библиотеки:**
-*pandas*
+*pandas, numpy, matplotlib, statsmodels, datetime, tqdm.notebook, plotly*
