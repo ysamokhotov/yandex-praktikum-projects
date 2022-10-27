@@ -52,4 +52,4 @@
 6) Общие выводы
 
 ## **Используемые библиотеки:**
-*pandas, numpy, matplotlib, statsmodels, datetime, tqdm.notebook, plotly*
+*pandas, numpy, matplotlib, statsmodels, datetime, tqdm, plotly*
