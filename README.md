@@ -20,6 +20,7 @@
 * datetime v3.11.0
 * plotly v5.10.0
 * tqdm v4.64.1 
+* pylab-sdk v1.3.2
 
 ```
 $ pip install pandas
@@ -29,6 +30,7 @@ $ pip install statsmodels
 $ pip install datetime
 $ pip install plotly
 $ pip install tqdm
+$ pip install pylab-sdk
 ```
 
 
