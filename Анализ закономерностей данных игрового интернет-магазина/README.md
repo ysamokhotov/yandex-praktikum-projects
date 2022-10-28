@@ -36,4 +36,4 @@
 - Сделаем общий вывод
 
 ## **Используемые библиотеки:**
-*pandas, numpy, matplotlib, seaborn, scipy*
+*pandas, numpy, matplotlib, seaborn, scipy, pylab*
