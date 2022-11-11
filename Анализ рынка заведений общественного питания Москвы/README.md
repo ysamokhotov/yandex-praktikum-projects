@@ -36,4 +36,4 @@
 * seats — количество посадочных мест.
 
 ## **Используемые библиотеки:**
-*pandas, numpy, matplotlib, seaborn, plotly, folium, re, json, warnings*
+*pandas, numpy, matplotlib, seaborn, plotly, folium*
