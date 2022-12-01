@@ -11,19 +11,22 @@
 | <a href="https://github.com/ysamokhotov/yandex-praktikum-projects/tree/main/%D0%90%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7%20AB-%D1%82%D0%B5%D1%81%D1%82%D0%B0%20%D0%B8%D0%BD%D1%82%D0%B5%D1%80%D0%BD%D0%B5%D1%82%20%D0%BC%D0%B0%D0%B3%D0%B0%D0%B7%D0%B8%D0%BD%D0%B0">Анализ A/B-теста интернет магазина</a> | Используя данные интернет-магазина приоритезировать гипотезы, произвести оценку результатов A/B-тестирования различными методами. | pandas, numpy, matplotlib, scipy |
 | <a href="https://github.com/ysamokhotov/yandex-praktikum-projects/tree/main/%D0%90%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7%20%D0%B7%D0%B0%D0%BA%D0%BE%D0%BD%D0%BE%D0%BC%D0%B5%D1%80%D0%BD%D0%BE%D1%81%D1%82%D0%B5%D0%B9%20%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85%20%D0%B8%D0%B3%D1%80%D0%BE%D0%B2%D0%BE%D0%B3%D0%BE%20%D0%B8%D0%BD%D1%82%D0%B5%D1%80%D0%BD%D0%B5%D1%82-%D0%BC%D0%B0%D0%B3%D0%B0%D0%B7%D0%B8%D0%BD%D0%B0">Анализ закономерностей данных игрового интернет-магазина</a> | Используя исторические данные о продажах компьютерных игр, оценки пользователей и экспертов, жанры и платформы, выявить закономерности, определяющие успешность игры. | pandas, numpy, matplotlib, seaborn, scipy |
 | <a href="https://github.com/ysamokhotov/yandex-praktikum-projects/tree/main/%D0%90%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7%20%D1%80%D1%8B%D0%BD%D0%BA%D0%B0%20%D0%B7%D0%B0%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D0%B9%20%D0%BE%D0%B1%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%BE%D0%B3%D0%BE%20%D0%BF%D0%B8%D1%82%D0%B0%D0%BD%D0%B8%D1%8F%20%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D1%8B">Анализ рынка заведений общественного питания Москвы</a> | Исследование рынка общественного питания на основе открытых данных, подготовка презентации для инвесторов. | pandas, numpy, matplotlib, seaborn, plotly, folium |
+| <a href="https://github.com/ysamokhotov/yandex-praktikum-projects/tree/main/%D0%A0%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%BA%D0%B0%20%D1%81%D1%82%D1%80%D0%B0%D1%82%D0%B5%D0%B3%D0%B8%D0%B8%20%D0%B2%D0%B7%D0%B0%D0%B8%D0%BC%D0%BE%D0%B4%D0%B5%D0%B9%D1%81%D1%82%D0%B2%D0%B8%D1%8F%20%D1%81%20%D0%BF%D0%BE%D0%BB%D1%8C%D0%B7%D0%BE%D0%B2%D0%B0%D1%82%D0%B5%D0%BB%D1%8F%D0%BC%D0%B8%20%D0%B4%D0%BB%D1%8F%20%D1%81%D0%B5%D1%82%D0%B8%20%D1%84%D0%B8%D1%82%D0%BD%D0%B5%D1%81-%D0%BA%D0%BB%D1%83%D0%B1%D0%BE%D0%B2">Разработка стратегии взаимодействия с пользователями для сети фитнес-клубов</a> | Разработка стратегии взаимодействия с пользователями для сети фитнес-клубов. | pandas, numpy, matplotlib, seaborn, sklearn |
+
 
 ## <a name="Инструментарий"></a> Инструментарий
-* python 3.9.12
+* python 3.7.15
 
 Использованные библиотеки:
-* pandas v1.4.2
-* numpy v1.21.5
-* matplotlib v3.5.1
-* statsmodels v0.13.2
-* plotly v5.6.0
-* tqdm v4.64.0 
+* pandas v1.3.5
+* numpy v1.21.6
+* matplotlib v3.2.2
+* statsmodels v0.12.2
+* plotly v5.5.0
+* tqdm v4.64.1
 * seaborn v0.11.2
-* folium v0.13.0
+* folium v0.12.1
+* sklearn v1.0.2
 
 
 ```
@@ -35,6 +38,7 @@ $ pip install plotly
 $ pip install tqdm
 $ pip install seaborn
 $ pip install folium
+$ pip install sklearn
 ```
 
 
