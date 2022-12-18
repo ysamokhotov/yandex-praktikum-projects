@@ -49,4 +49,4 @@
 * group — группа пользователя.
 
 ## **Используемые библиотеки:**
-*pandas, numpy, matplotlib, seaborn, plotly, warnings, datetime, statsmodels, tqdm*
+*pandas, numpy, matplotlib, seaborn, plotly, statsmodels, tqdm*
